@@ -441,7 +441,7 @@ From v0.x to v1.x
 Building from Source
 ```Bash
 # Clone the repository
-git clone https://github.com/your-username/nkp.git
+git clone https://github.com/KP-Script/nkp.git
 cd nkp
 
 # Install dependencies
@@ -468,12 +468,12 @@ MIT © KP-Dev.
 
 
 🤝 Support
-* 📧 Email: support@nkp.dev
-* 🐛 Issues: [GitHub Issues](https://github.com/KP-dev/nkp/issues)
-* 💬 Discussions: [GitHub Discussions](https://github.com/KP-Dev/nkp/discussions)
+* 📧 Email: kp.script@gmail.com
+* 🐛 Issues: [GitHub Issues](https://github.com/KP-Script/nkp/issues)
+* 💬 Discussions: [GitHub Discussions](https://github.com/KP-Script/nkp/discussions)
 
 
 ---
 
-Made with ❤️ by KP-Dev.
+Made with ❤️ by KP-Script.
 "# nkp" 

@@ -24,7 +24,7 @@
     "badge",
     "toggle"
   ],
-  "author": "KP-Dev",
+  "author": "KP-Script",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=16.8.0",
