@@ -464,7 +464,7 @@ npm run dev
 
 ### 📄 License
 
-MIT © KP-Dev.
+MIT © KP-Script.
 
 
 🤝 Support
@@ -476,4 +476,3 @@ MIT © KP-Dev.
 ---
 
 Made with ❤️ by KP-Script.
-"# nkp" 
